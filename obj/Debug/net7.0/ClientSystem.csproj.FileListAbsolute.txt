@@ -1,0 +1,15 @@
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade Cadastro de Clientes\ClientSystem\bin\Debug\net7.0\ClientSystem.exe
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade Cadastro de Clientes\ClientSystem\bin\Debug\net7.0\ClientSystem.deps.json
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade Cadastro de Clientes\ClientSystem\bin\Debug\net7.0\ClientSystem.runtimeconfig.json
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade Cadastro de Clientes\ClientSystem\bin\Debug\net7.0\ClientSystem.dll
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade Cadastro de Clientes\ClientSystem\bin\Debug\net7.0\ClientSystem.pdb
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade Cadastro de Clientes\ClientSystem\obj\Debug\net7.0\ClientSystem.csproj.AssemblyReference.cache
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade Cadastro de Clientes\ClientSystem\obj\Debug\net7.0\ClientSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade Cadastro de Clientes\ClientSystem\obj\Debug\net7.0\ClientSystem.AssemblyInfoInputs.cache
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade Cadastro de Clientes\ClientSystem\obj\Debug\net7.0\ClientSystem.AssemblyInfo.cs
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade Cadastro de Clientes\ClientSystem\obj\Debug\net7.0\ClientSystem.csproj.CoreCompileInputs.cache
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade Cadastro de Clientes\ClientSystem\obj\Debug\net7.0\ClientSystem.dll
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade Cadastro de Clientes\ClientSystem\obj\Debug\net7.0\refint\ClientSystem.dll
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade Cadastro de Clientes\ClientSystem\obj\Debug\net7.0\ClientSystem.pdb
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade Cadastro de Clientes\ClientSystem\obj\Debug\net7.0\ClientSystem.genruntimeconfig.cache
+C:\Users\gibso\Documentos\Curso BackEnd SENAI\Módulo Codificação Backend\Atividade Cadastro de Clientes\ClientSystem\obj\Debug\net7.0\ref\ClientSystem.dll
